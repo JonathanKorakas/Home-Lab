@@ -24,5 +24,5 @@ From this project I have learnt:
 - Virtual machine configuration
 - Ubuntu initial configuration
 - Ubuntu Server initial configuration
-- -Kali Linux initial configuration
+- Kali Linux initial configuration
 - Update and upgrade Linux packages
